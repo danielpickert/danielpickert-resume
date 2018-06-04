@@ -1,0 +1,27 @@
+{
+	"name": "daniel",
+	"website": "https://danielpickert.github.io/",
+	"linkedin": "https://www.linkedin.com/in/danielpickert/",
+	"email": "dpickert1@gmail.com",
+	"resume": "https://danielpickert.github.io/resume.html",
+	"proficient-technologies": [
+		"html", 
+		"css", 
+		"javascript", 
+		"node", 
+		"express"
+
+	],
+	"other-skills": [
+		"debugging",
+		"proofreading",
+		"social media",
+		"final cut pro x",
+		"iMovie",
+		"aerial drone photography",
+		"basketball",
+		"guitar",
+		"hiking"
+	]
+}
+
